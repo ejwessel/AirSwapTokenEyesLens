@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "8a84a300-1364-487a-acbb-23d9bf48c676",
     "document_id": "zuHsxJfeluNsm89zNALB",
     "original_document_id": "zuHsxJfeluNsm89zNALB",
     "version": "23",
-    "lastChanged": "1585094051646",
+    "lastChanged": "1585147725160",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -84,7 +84,8 @@
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1585093522914104:16461"
+                    "1585093522914104:16461",
+                    "1585147193978053:6664"
                 ]
             ]
         },
@@ -144,7 +145,23 @@
         "InspectorComponent": {
             "Component": {
                 "EyeColorVisual": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1585147193978480:6665",
+                            "v": {
+                                "eyeColorInfo": {
+                                    "textureUid": "1585093552823326:17270",
+                                    "mode": "1",
+                                    "color": {
+                                        "x": "0.200000003",
+                                        "y": "0.699999988",
+                                        "z": "0.5",
+                                        "w": "1"
+                                    }
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 },
                 "FaceStretchVisual": {
@@ -164,7 +181,8 @@
                 "3": "1585093522912765:16459",
                 "4": "1585093522913413:16460",
                 "5": "1585093522914104:16461",
-                "6": "1585093647283946:21009"
+                "6": "1585093647283946:21009",
+                "7": "1585147193978053:6664"
             }
         },
         "LayerComponent": {
@@ -363,7 +381,11 @@
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "objects": [
+                    "1585147193978053:6664"
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
